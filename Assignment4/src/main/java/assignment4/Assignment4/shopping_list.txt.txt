@@ -1,0 +1,4 @@
+Apples,5
+Milk,2
+Bread,3
+Eggs,12

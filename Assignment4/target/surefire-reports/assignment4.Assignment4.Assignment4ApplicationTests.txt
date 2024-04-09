@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: assignment4.Assignment4.Assignment4ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.20 s -- in assignment4.Assignment4.Assignment4ApplicationTests
